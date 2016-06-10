@@ -1,10 +1,7 @@
 # Octave 4.0.0, Fri Nov 6 2:42:51 2015 Eastern Daylight Time <unknown@Rupanta-PC>
 
-# Computer Vision and Scene Analysis Project 1
 # Name          : RUPANTA RWITEEJ DUTTA
-# University ID : N15786532
 # Creation Date : Fri Nov 6 2:42:51 2015 Eastern Daylight Time
-# Detailed Code Documentation : CodeDocumentation.pdf (Included in Folder)
 
 # Input image files Start
 Img1 = imread ("Lena256.bmp");
