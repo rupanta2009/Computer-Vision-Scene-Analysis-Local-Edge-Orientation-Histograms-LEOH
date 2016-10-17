@@ -11,7 +11,7 @@ Img2 = imread ("airplane256.bmp");
 # Define Horizontal and Vertical templates Start
 Horizontal_template = [-1 0 1];
 Vertical_template = [-1; 0; 1];
-# Define Horizontal and Vertical templates End
+# Define Horizontal and Vertical templates End 
 
 # Calculate Horizontal Gradients Start
 Horizontal_gradient1 = Img1.*0;
